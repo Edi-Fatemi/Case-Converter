@@ -1,1 +1,1 @@
-# This is a simple Case Converter Chnage, Which is JB challenge
+# This is a simple Case Converter Change, Which is JB challenge
